@@ -1,0 +1,12 @@
+{
+  "name": "se364/328/week5",
+  "authors": [
+    {
+      "name": "Shah Emran",
+      "email": "semran@greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
